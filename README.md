@@ -1,8 +1,10 @@
 # ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/raw/master/s.png) 
 # ![Locations](https://github.com/attakercyebr/M4nifest0-M4/blob/main/M4nifest0%20(M4).jpg) 
 
-## pay attention :
-** You can give this tool to the target in different formats. To understand this, be sure to watch the training video
+
+
+### ⚠️ 〢 Note
+> You can give this tool to the target in different formats. To understand this, be sure to watch the training video
 
 
 ## Featrues
@@ -24,12 +26,6 @@
 
 #### Stealer
 
-> Discord Token
->
-> Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes
->
-> Discord Friends with rare badges
->
 > Grabs crypto wallets -
 > 💸 Zcash
 > 🚀 Armory
@@ -80,21 +76,11 @@
 > Install [Node.js](https://nodejs.org/en/download/)
 >
 > Install [Visual studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&passive=true&tailored=cplus&cid=2031#cplusplus) with C++ compilers and all enabled (is a bit gigs but u wont have errors)
->
-> Run **_install.bat_** file to install all necessary files
->
-> Replace _WEBHOOK_ with your webhook in **_config.js_**
->
-> Run **_build.bat_** and wait for **_doenerium-win.exe_** to be built.
-
-<a id="todo"></a>
 
 ---
 
 ### 📝 〢 Todo
 
-> - ~~Exodus wallet injection (get the password whenever the user logs in the wallet)~~
-> - More grabbers (VPN's, Gaming, Messengers)
 > - Keylogger
 > - Growtopia stealer
 > - Discord bot to build within discord ($build <webhook_url>)
@@ -103,30 +89,6 @@
 <a id="license"></a>
 
 ---
-
-### 📜 〢 License
-
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
-
-<a id="note"></a>
-
----
-
-### ⚠️ 〢 Note
-
-There is no official telegram server of this project.
-I don't own t.me/doenerium
-
-I am not responsible for any damages this software may cause. This was made for personal education.
-
-### Credits
-
-Credits to Pandoric / PandoricGalaxy for creating this beautiful README file
-
-<p align="center"><a href=#top>Back to Top</a></p>
-
-
-
 
 <p align="center">	
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
