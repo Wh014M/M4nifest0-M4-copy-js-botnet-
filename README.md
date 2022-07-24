@@ -6,6 +6,9 @@
 ### ⚠️ 〢 Note
 > You can give this tool to the target in different formats. To understand this, be sure to watch the training video
 
+> 👽 https://t.me/M4nifest0/813
+
+---
 
 ## Featrues
 
